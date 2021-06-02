@@ -28,6 +28,7 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
+    font-family: Helvetica, sans-serif;
 }
 
 h2,h3 {
