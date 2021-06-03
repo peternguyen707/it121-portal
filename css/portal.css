@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: #B9FBFF;
+    font-family: Helvetica, sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -28,7 +28,6 @@ main.wrapper {
 
 p {
     margin: 1em; /* Top Right Bottom Left (TRBL) */
-    font-family: Helvetica, sans-serif;
 }
 
 h2,h3 {
